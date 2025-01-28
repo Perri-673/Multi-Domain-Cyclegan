@@ -14,8 +14,8 @@ DOMAINS = ['healthy', 'early_blight', 'late_blight']
 
 # Path to datasets (adjust according to your folder structure)
 DATA_PATH = "path_to_your_data"
-TRAIN_DIR = f"data/train"
-VAL_DIR = f"data/val"
+TRAIN_DIR = f"data/Train"
+VAL_DIR = f"data/Val"
 
 # Training hyperparameters
 BATCH_SIZE = 16
