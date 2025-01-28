@@ -10,7 +10,7 @@ IMG_CHANNELS = 3  # Color images (RGB)
 # Data Settings
 # Number of domains for multi-domain CycleGAN (e.g., healthy, early blight, late blight)
 NUM_DOMAINS = 3
-DOMAINS = ['healthy', 'early_blight', 'late_blight']
+DOMAINS = ['healthy', 'Early_blight', 'Late_blight']
 
 # Path to datasets (adjust according to your folder structure)
 DATA_PATH = "path_to_your_data"
